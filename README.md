@@ -22,4 +22,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 * V1.0.0: first version
 * V1.1.0: main menu disappears when component is displayed
+* branch setstate: using setstate approach
 
